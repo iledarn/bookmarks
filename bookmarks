@@ -6,3 +6,8 @@ it-projects	https://www.it-projects.info/web?#menu_id=99&action=91 ;; inbox
 memosnag	https://www.memosnag.com/users/gallery ;; gallery
 yandexmusic	https://music.yandex.ru/artist/22 ;; cohen
 workingmachine  https://gist.github.com/iledarn/46abebf4880029c5e0dd8378fd49e2f6 ;; mysystem
+acestream	http://acesoplisting.in/ ;; sport
+acestream	http://streams.magazinmixt.ro/channels/index ;; magazinmixt
+gotbletu	https://github.com/gotbletu/shownotes/blob/master/acestream.md ;; acestream
+archlinux	https://aur.archlinux.org/packages/libavutil-52/ ;; libavutil
+nvim 		https://github.com/suan/vim-instant-markdown ;; markdown
