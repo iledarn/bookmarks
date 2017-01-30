@@ -11,3 +11,12 @@ acestream	http://streams.magazinmixt.ro/channels/index ;; magazinmixt
 gotbletu	https://github.com/gotbletu/shownotes/blob/master/acestream.md ;; acestream
 archlinux	https://aur.archlinux.org/packages/libavutil-52/ ;; libavutil
 nvim 		https://github.com/suan/vim-instant-markdown ;; markdown
+github		https://github.com/ ;; my
+github		https://github.com/it-projects-llc ;; it-projects
+odoo		http://odoo-connector.com/api/api_runner.html ;; connector runner
+odoo		https://github.com/OCA/connector-interfaces/tree/9.0 ;; connector interfaces oca
+drm		https://www.it-projects.info/web#id=1256&view_type=form&model=project.task&menu_id=440&action=571 ;; tucker
+python		http://www.realcoding.net/articles/osnovy-raboty-s-potokami-v-python.html ;; threading
+python		http://www.realcoding.net/articles/osnovy-raboty-s-potokami-v-python.html ;; threading
+musicozzy	https://music.yandex.ru/artist/3274 ;; ozzy
+pyhton2docs	https://docs.python.org/2/index.html ;; docs python2
