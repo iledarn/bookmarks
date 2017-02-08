@@ -23,3 +23,5 @@ pyhton2docs	https://docs.python.org/2/index.html ;; docs python2
 spacevim 	https://github.com/SpaceVim/SpaceVim ;; spacevim github
 howivim1	http://howivim.com/2016/artur-shaikhullin/ ;; howivim artur shaikhullin
 tmux1		https://awhan.wordpress.com/2010/06/20/copy-paste-in-tmux/ ;; tmux copy-paste
+tmux2		https://github.com/artur-shaik/vimmer-dotfiles/blob/master/tmux/.tmux.conf ;; tmux.conf artur-shaik
+vimpull1426	https://github.com/vim/vim/pull/1426 ;; vim pull
