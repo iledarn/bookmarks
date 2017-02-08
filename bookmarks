@@ -20,3 +20,6 @@ python		http://www.realcoding.net/articles/osnovy-raboty-s-potokami-v-python.htm
 python		http://www.realcoding.net/articles/osnovy-raboty-s-potokami-v-python.html ;; threading
 musicozzy	https://music.yandex.ru/artist/3274 ;; ozzy
 pyhton2docs	https://docs.python.org/2/index.html ;; docs python2
+spacevim 	https://github.com/SpaceVim/SpaceVim ;; spacevim github
+howivim1	http://howivim.com/2016/artur-shaikhullin/ ;; howivim artur shaikhullin
+tmux1		https://awhan.wordpress.com/2010/06/20/copy-paste-in-tmux/ ;; tmux copy-paste
