@@ -14,9 +14,35 @@ nvim 		https://github.com/suan/vim-instant-markdown ;; markdown
 github		https://github.com/ ;; my
 github		https://github.com/it-projects-llc ;; it-projects
 odoo		http://odoo-connector.com/api/api_runner.html ;; connector runner
-odoo		https://github.com/OCA/connector-interfaces/tree/9.0 ;; connector interfaces oca
+oca_ci		https://github.com/OCA/connector-interfaces/tree/9.0 ;; connector interfaces oca
 drm		https://www.it-projects.info/web#id=1256&view_type=form&model=project.task&menu_id=440&action=571 ;; tucker
 python		http://www.realcoding.net/articles/osnovy-raboty-s-potokami-v-python.html ;; threading
 python		http://www.realcoding.net/articles/osnovy-raboty-s-potokami-v-python.html ;; threading
 musicozzy	https://music.yandex.ru/artist/3274 ;; ozzy
 pyhton2docs	https://docs.python.org/2/index.html ;; docs python2
+myquartet	https://github.com/iledarn/Quartet ;; my quartet
+dropboxtucker	https://www.dropbox.com/sh/mh0ca6494pvav34/AAApD1j8Yy4iweFu08q_aU4Ea?dl=0 ;; tucker dropbox
+odoodevelopment	https://odoo-development.readthedocs.io/en/latest/index.html ;; odoo development readthedocs
+zz-top		https://music.yandex.ru/artist/46012 ;; zz-top
+thinlizzy	https://music.yandex.ru/search?text=thin%20lizzy ;; music thinlizzy
+vimfiler327	https://github.com/Shougo/vimfiler.vim/issues/327 ;; vimfiler issue 327
+vimfilerdoc	https://github.com/Shougo/vimfiler.vim/blob/master/doc/vimfiler.txt ;; vimfiler doc
+tuckerreadme	https://www.dropbox.com/sh/mh0ca6494pvav34/AAApD1j8Yy4iweFu08q_aU4Ea?dl=0&preview=FTP_README.txt ;; tucker readme
+simplejson	https://simplejson.readthedocs.io/en/latest/ ;; simplejson
+odooorm		https://www.odoo.com/documentation/10.0/reference/orm.html ;; odoo orm
+thesmiths	https://music.yandex.ru/artist/54254/tracks ;; music thesmiths
+vimale		https://github.com/w0rp/ale ;; plugin vim ale
+10journalists	https://esquire.ru/10-journalists ;; 10journalists
+tomwaits	https://music.yandex.ru/artist/3853/tracks ;; Tom Waits music
+esquirebooks	https://esquire.ru/history-of-loneliness ;; esquire books
+webkul1		http://webkul.com/blog/website-product-brand/ ;; product brand odoo
+tasknada	https://www.it-projects.info/web#id=1220&view_type=form&model=project.task ;; task nada
+serpent1	http://www.serpentcs.com/serpentcs-odoo-ecommerce-shop-brands-contribution ;; ecommerce brand odoo
+oca_prod1	https://github.com/OCA/product-attribute/tree/10.0/product_brand ;; oca odoo product brand
+todorepo	https://github.com/iledarn/repo_for_todo/tree/master ;; todo repo
+dropboxnada	https://www.dropbox.com/sh/ncqg14pxhck5vsu/AADGDwFpRWaUCLTyHRvOY_zHa?dl=0 ;; nada dropbox
+connectormap	http://odoo-connector.com/api/api_mapper.html ;; mapper
+remapkey	https://gist.github.com/iledarn/5f849f89d71ccb5f2ff963a31fc79df2 ;; remap
+vimref		http://najomi.org/vim ;; vim ref cookbook
+vimref2		http://scabere.livejournal.com/62886.html ;; vim ref cookbook
+vimcsv		https://github.com/chrisbra/csv.vim/blob/master/doc/ft-csv.txt ;; vim csv doc
