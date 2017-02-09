@@ -46,3 +46,8 @@ remapkey	https://gist.github.com/iledarn/5f849f89d71ccb5f2ff963a31fc79df2 ;; rem
 vimref		http://najomi.org/vim ;; vim ref cookbook
 vimref2		http://scabere.livejournal.com/62886.html ;; vim ref cookbook
 vimcsv		https://github.com/chrisbra/csv.vim/blob/master/doc/ft-csv.txt ;; vim csv doc
+spacevim 	https://github.com/SpaceVim/SpaceVim ;; spacevim github
+howivim1	http://howivim.com/2016/artur-shaikhullin/ ;; howivim artur shaikhullin
+tmux1		https://awhan.wordpress.com/2010/06/20/copy-paste-in-tmux/ ;; tmux copy-paste
+tmux2		https://github.com/artur-shaik/vimmer-dotfiles/blob/master/tmux/.tmux.conf ;; tmux.conf artur-shaik
+vimpull1426	https://github.com/vim/vim/pull/1426 ;; vim pull
