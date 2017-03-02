@@ -91,7 +91,7 @@ jsfiddle	http://jsfiddle.net/YNGcm/21/ ;; jsfiddle
 task1341	https://www.it-projects.info/web?#id=1341&view_type=form&model=project.task ;; v10 backup ftp
 vim1		http://www.oualline.com/vim/10/top_10.html ;; vim top 10
 spacevim1	https://github.com/ctjhoa/spacevim/blob/master/plugin/spacevim.vim ;; bindings
-task1275	https://www.it-projects.info/web?#id=1275&view_type=form&model=project.task ;; confilict booking slots
+task1275	https://www.it-projects.info/web?#id=1275&view_type=form&model=project.task ;; conflict booking slots
 github1		https://github.com/it-projects-llc/odoo-saas-tools ;; saas github
 github2		https://github.com/bitfield/puppet-beginners-guide ;; puppet
 github3		https://github.com/it-projects-llc/access-addons ;; access-addons
@@ -110,3 +110,42 @@ github5		https://github.com/it-projects-llc/misc-addons ;; misc-addons
 dom1		http://ufabeton.com/fundament-pod?utm_medium=cpc&utm_source=yandex&utm_campaign=y_poisk_ufa_fundament_tranz|21265432&utm_term=%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BE%D0%B9%20%D1%84%D1%83%D0%BD%D0%B4%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%20%D1%86%D0%B5%D0%BD%D0%B0&utm_content=7019333317_|cid|21265432|gid|1888099584|aid|2779320429|adp|no|pos|none0|src|context_music.yandex.ru|dvc|desktop&yclid=821337310301787726 ;; ufa fundament
 yenthevg	http://www.odoo.yenthevg.com/ ;; odoo made easy
 odoo4		http://odoo-master.readthedocs.io/en/master/reference/guidelines.html ;; odoo guidelines master
+esquire1	https://esquire.ru/the-wright-brothers ;; wright brothers
+w3school1	https://www.w3schools.com/bootstrap/bootstrap_modal.asp ;; w3school bootstrap modal
+jsfiddle1	https://jsfiddle.net/jasny/ZcLSE/ ;; jsfiddle bootstrap modal
+w3school2	https://www.w3schools.com/howto/howto_css_modals.asp ;; w3school css modal
+bootstrap1	http://v4-alpha.getbootstrap.com/components/modal/ ;; bootstrap modal
+odoo5		https://www.odoo.com/documentation/10.0/reference/qweb.html ;; docs qweb
+stackoverflow1	http://stackoverflow.com/questions/901115/how-can-i-get-query-string-values-in-javascript ;; javascript url values
+github6		https://github.com/it-projects-llc/website-addons ;; it-projects website-addons github
+task359		https://www.it-projects.info/web?#id=359&view_type=form&model=project.task&menu_id=147&action=155 ;; saas demo
+task1276	https://www.it-projects.info/web?#id=1276&view_type=form&model=project.task&action=152&active_id=23 ;; PayPal need advice football
+task1277	https://www.it-projects.info/web#id=1277&view_type=form&model=project.task&action=152&active_id=23 ;; PayPal message football
+it-projects1	http://odoo-development.readthedocs.io/en/latest/dev/tests/paypal.html?highlight=paypal ;; paypal testing
+paypal1		https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/html_example_buy_now/?mark=_xclick ;; pay now button
+paypal2		https://www.paypal.com/ru/cgi-bin/webscr?cmd=p/acc/ipn-info-outside ;; paypal IPN ru
+paypal2		https://developer.paypal.com/docs/classic/products/instant-payment-notification/ ;; paypal IPN en
+paypal3		https://developer.paypal.com/docs/classic/paypal-payments-standard/integration-guide/paymentdatatransfer/ ;; paypal PDT payment data transfer
+paypal4		https://developer.paypal.com/docs/classic/ipn/integration-guide/IPNSetup/ ;; IPN Setup
+tmux3		https://github.com/tmux-plugins/tmux-pain-control ;; tmux pain control
+tmux4		https://sanctum.geek.nz/arabesque/sync-tmux-panes/ ;; sync tmux panes
+tmux5 		https://wiki.archlinux.org/index.php/Tmux_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9) ;; archlinux tmux help
+systemd1	https://wiki.archlinux.org/index.php/Systemd/User_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9) ;; systemd user
+tmux6		https://bbs.archlinux.org/viewtopic.php?id=196024 ;; tmux as systemd user service
+systemd2	https://www.digitalocean.com/community/tutorials/understanding-systemd-units-and-unit-files ;; systemd units
+systemd3	https://www.digitalocean.com/community/tutorials/how-to-use-systemctl-to-manage-systemd-services-and-units ;; manage systemd services with systemctl
+github7		https://github.com/it-projects-llc/docker-odoo-nginx ;; it-projects docker-odoo-nginx
+task1139	https://www.it-projects.info/web?#id=1139&view_type=form&model=project.task ;; quartet fitment
+askubuntu1	http://askubuntu.com/questions/625410/how-to-create-a-sftp-ssh-user-with-extremely-limited-permissions ;; sftp add user
+powerline1	https://github.com/powerline/powerline/issues/186 ;; powerline configuration
+mailgun		https://documentation.mailgun.com/ ;; mailgun api
+odoo6		https://www.youtube.com/watch?v=g-kaP16PYhc ;; odoo configure mail v9
+task1343	https://www.it-projects.info/web#id=1343&view_type=form&model=project.task&action=152&active_id=47 ;; SaaS configuration (ftp backup, ssl, mailgun)
+mailgun1	https://documentation.mailgun.com/quickstart-sending.html#send-via-smtp ;; quickstart sending
+mailgun2	https://laracasts.com/discuss/channels/laravel/sending-emails-with-mailgun ;; mailgun sending issue
+task1165	https://www.it-projects.info/web?#id=1165&view_type=form&model=project.task&menu_id=440&action=571 ;; quartet csv and api
+dropbox1	https://www.dropbox.com/sh/jk3lm64yfm658k1/AADqbT6DIyTd-a-tEV8gm0kQa?dl=0 ;; quartet csv dropbox
+task1349	https://www.it-projects.info/web?#id=1349&view_type=form&model=project.task&menu_id=440&action=571 ;; quartet import bmw
+bash1		http://linuxgazette.net/109/marinov.html ;; bash history of visited directories
+vim2		http://vim.wikia.com/wiki/All_the_right_moves ;; vim moves
+vim3		https://www.quora.com/Text-Editors-What-are-the-Emacs-features-that-Vim-users-envy-and-vice-versa ;; emacs vs vim
