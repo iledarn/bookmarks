@@ -149,3 +149,45 @@ task1349	https://www.it-projects.info/web?#id=1349&view_type=form&model=project.
 bash1		http://linuxgazette.net/109/marinov.html ;; bash history of visited directories
 vim2		http://vim.wikia.com/wiki/All_the_right_moves ;; vim moves
 vim3		https://www.quora.com/Text-Editors-What-are-the-Emacs-features-that-Vim-users-envy-and-vice-versa ;; emacs vs vim
+vim4		http://forums.xkcd.com/viewtopic.php?t=59036 ;; vim tips mailing list
+buildout1	http://www.buildout.org/en/latest/ ;; buildout.org
+habrahabr263595	https://habrahabr.ru/post/263595/ ;; puppet chef
+habrahabr211306	https://habrahabr.ru/post/211306/ ;; puppet chef ansible
+tmux7		https://jordanelver.co.uk/blog/2010/11/27/automatically-attaching-to-a-tmux-session-via-ssh/ ;; tmux session via ssh
+ssh2		https://www.digitalocean.com/community/tutorials/how-to-use-ssh-to-connect-to-a-remote-server-in-ubuntu ;; ssh connection ubuntu
+shs3		https://wiki.archlinux.org/index.php/Secure_Shell_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9) ;; archlinux ssh server
+docker1		http://eax.me/docker-gui-apps/ ;; docker gui apps
+vnc1		http://eax.me/vnc/ ;; vnc server
+x2go		http://wiki.x2go.org/doku.php/start) ;; x2go vnc alternative
+x2go1		http://wiki.x2go.org/doku.php/doc:newtox2go ;; x2go overview
+x2go2		http://wiki.x2go.org/doku.php/doc:de-compat ;; x2go desktop environment compatibility
+chrome2		https://productforums.google.com/forum/#!topic/chrome/NGs-B3sPiX8 ;; chrome new session
+x2go3		https://wiki.archlinux.org/index.php/X2Go ;; archlinux x2go
+python3		http://stackoverflow.com/questions/5234090/how-to-take-the-first-n-items-from-a-generator-or-list-in-python ;; generator slicing
+python4		https://docs.python.org/3.4/library/itertools.html ;; python3 itertools
+python5		https://docs.python.org/2/library/itertools.html ;; python2 itertools
+tmux8		http://askubuntu.com/questions/802189/how-to-run-tmux-screen-with-systemd-230 ;; tmux as a service
+systemd4	https://gist.github.com/drmalex07/d006f12914b21198ee43 ;; systemd oneshot example
+systemd5	https://habrahabr.ru/company/centosadmin/blog/255845/ ;; systemd tutorial
+systemd6	https://www.freedesktop.org/software/systemd/man/systemd.service.html ;; systemd man
+systemd7	https://www.lucas-nussbaum.net/blog/?p=877 ;; systemd type=simple
+tmux9		http://www.hamvocke.com/blog/a-quick-and-easy-guide-to-tmux/ ;; tmux guide
+linux1		http://unix.stackexchange.com/questions/10735/linux-allowing-an-user-to-listen-to-a-port-below-1024 ;; allowing user to listen to a port
+linux2		http://stackoverflow.com/questions/413807/is-there-a-way-for-non-root-processes-to-bind-to-privileged-ports-on-linux ;; local ssh tunnel
+docker2		https://blog.yadutaf.fr/2016/04/14/docker-for-your-users-introducing-user-namespace/ ;; docker user namespace
+docker3		http://www.projectatomic.io/blog/2014/09/granting-rights-to-users-to-use-docker-in-fedora/ ;; docker no authorization control
+docker4		http://www.projectatomic.io/blog/2015/08/why-we-dont-let-non-root-users-run-docker-in-centos-fedora-or-rhel/ ;; docker non-root users
+docker5		http://askubuntu.com/questions/477551/how-can-i-use-docker-without-sudo ;; group called docker
+docker6		http://stackoverflow.com/questions/32334167/is-it-possible-to-start-multiple-docker-daemons-on-the-same-machine ;; multiple docker daemons
+docker7		https://github.com/jpetazzo/dind ;; docker-in-docker
+docker8		https://docs.docker.com/engine/reference/commandline/dockerd/#usage ;; dockerd
+docker9		http://serverfault.com/questions/785211/how-to-limit-access-from-host-to-docker-container ;; docker limit access to container
+x2go4		http://www.linuxrussia.com/2015/06/x2go-ubuntu.html ;; russian x2go installation tutorial
+ssh3		https://wiki.archlinux.org/index.php/Secure_Shell#X11_forwarding ;; x2go ssh X11 forwarding
+vim5		https://github.com/tpope/vim-surround/blob/master/doc/surround.txt ;; vim vim-surround doc
+vim6		http://vim.wikia.com/wiki/Selecting_your_pasted_text ;; vim select just pasted text
+bikes1		http://bikestories.ru/2010/09/telelever/ ;; bikes bmw
+task1350	https://www.it-projects.info/web?#id=1350&view_type=form&model=project.task ;; estimate requirements saas
+esquire2	https://esquire.ru/fiction/chuck-palahniuk ;; chuck palahniuk
+github8		https://github.com/NobleRushDigital/Quartet ;; NobleRushDigital Quartet
+archlinux6	https://wiki.archlinux.org/index.php/ASUS_Eee_PC_1015pn ;; asus eeepc 1015pn
