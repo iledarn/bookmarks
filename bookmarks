@@ -222,3 +222,4 @@ task1367	https://www.it-projects.info/web?#id=1367&view_type=form&model=project.
 task1368	https://www.it-projects.info/web?#id=1368&view_type=form&model=project.task&action=571 ;; quatet import KTM
 vim7		https://raw.githubusercontent.com/Shougo/shougo-s-github/f5dfd7961ef9ecf6e7c3811c666d7a53a283ecfd/vim/.vimrc ;; Shougo's vimrc
 spacevim2	http://spacevim.org/documentation/ ;; spacevim.org documentation
+vim8		http://eed3si9n.com/vim-memo ;; vim memo
