@@ -191,3 +191,34 @@ task1350	https://www.it-projects.info/web?#id=1350&view_type=form&model=project.
 esquire2	https://esquire.ru/fiction/chuck-palahniuk ;; chuck palahniuk
 github8		https://github.com/NobleRushDigital/Quartet ;; NobleRushDigital Quartet
 archlinux6	https://wiki.archlinux.org/index.php/ASUS_Eee_PC_1015pn ;; asus eeepc 1015pn
+archlinux6	https://wiki.archlinux.org/index.php?title=ASUS_Eee_PC_1215n&redirect=no ;; asus eeepc 1215n
+github9		https://github.com/it-projects-llc/addons-dev ;; addons-dev
+archlinux6	https://wiki.archlinux.org/index.php/Bumblebee_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9) ;; bumblebee
+ubuntu1		https://ubuntuforums.org/showthread.phto resolve this by going back into /etc/bumblebee/p?t=2043971 ;; ubuntu 12.04 bumblebee
+ubuntu2		http://help.ubuntu.ru/wiki/bumblebee ;; ubuntu 12.04 bumblebee installation
+ubuntu3		http://torrent.ubuntu.com:6969/ ;; torrent ubuntu.com
+odooforum1	https://www.odoo.com/forum/help-1/question/anyone-using-point-of-sale-33983 ;; odoo forum point of sale card
+odooapps1	https://www.odoo.com/apps/7.0/product_variant_multi/ ;; product_variant_multi
+odooapps2	https://www.accomodata.be/page/odoo4fashion ;; odoo4fashion
+odoo7		https://www.odoo.com/documentation/user/9.0/inventory/settings/products/variants.html ;; odoo doc product variants
+odoo8		https://www.slideshare.net/BgBusinessOdoo/how-to-manage-fashion-company-and-samples-room-with-odoo-by-madeforfashion ;; fashion
+odoo9		https://www.odoo.com/groups/community-59/community-16066146 ;; fashion
+odoo10		https://github.com/ruifranco/odoo-addons/tree/master/clothing_sizes ;; clothing sizes
+odoo11		https://www.targetintegration.com/knowledgement/general/using-garmentclothes-manufacturing-system-built-with-openerpodoo ;; clothing
+odoo12		https://github.com/mga-odoo/odoo-extra/tree/master/fashion ;; odoo fashion github
+odoo13		https://www.accomodata.be/page/odoo4fashion ;; odoo4fashion
+football2	https://www.it-projects.info/web?#id=1359&view_type=form&model=project.task ;; wrong slots position
+books1		https://mybook.ru/author/lev-tolstoj/vse-luchshie-skazki-i-rasskazy/ ;; lev tolstoj detskie
+books2		https://www.litres.ru/lev-tolstoy/vse-luchshie-skazki-i-rasskazy/ ;; litres lev tolstoj detskie
+odoo14		https://www.youtube.com/watch?v=cVi3hvCsTAc ;; odoo studio
+odoo15		https://www.odoo.com/blog/odoo-news-5/post/odoo-studio-contest-get-the-chance-to-win-100-360 ;; odoo studio
+yandex1		https://tech.yandex.ru/money/doc/payment-solution/About-docpage/ ;; yandex kassa
+yandex2		https://money.yandex.ru/doc.xml?id=524407 ;; yandex kassa news
+yandex3		https://money.yandex.ru/doc.xml?id=526382 ;; yandex kassa faq
+task1364	https://www.it-projects.info/web?#id=1364&view_type=form&model=project.task&action=571 ;; quartet import ducati
+task1365	https://www.it-projects.info/web?#id=1365&view_type=form&model=project.task&action=571 ;; quatet import honda
+task1366	https://www.it-projects.info/web?#id=1366&view_type=form&model=project.task&action=571 ;; quartet import Indian
+task1367	https://www.it-projects.info/web?#id=1367&view_type=form&model=project.task&action=571 ;; quartet import Kawasaki
+task1368	https://www.it-projects.info/web?#id=1368&view_type=form&model=project.task&action=571 ;; quatet import KTM
+vim7		https://raw.githubusercontent.com/Shougo/shougo-s-github/f5dfd7961ef9ecf6e7c3811c666d7a53a283ecfd/vim/.vimrc ;; Shougo's vimrc
+spacevim2	http://spacevim.org/documentation/ ;; spacevim.org documentation
