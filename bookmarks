@@ -223,3 +223,23 @@ task1368	https://www.it-projects.info/web?#id=1368&view_type=form&model=project.
 vim7		https://raw.githubusercontent.com/Shougo/shougo-s-github/f5dfd7961ef9ecf6e7c3811c666d7a53a283ecfd/vim/.vimrc ;; Shougo's vimrc
 spacevim2	http://spacevim.org/documentation/ ;; spacevim.org documentation
 vim8		http://eed3si9n.com/vim-memo ;; vim memo
+tmux10		https://awhan.wordpress.com/2010/06/20/copy-paste-in-tmux/ ;; tmux copy-paste
+tmux11		http://jasonwryan.com/blog/2011/06/07/copy-and-paste-in-tmux/ ;; tmux copy-paste
+odooissue4146	https://github.com/odoo/odoo/issues/4146 ;; odoo issue inherited AbstractModel
+task1369	https://www.it-projects.info/web?#id=1369&view_type=form&model=project.task ;; football slot booking is slow
+google1		http://gdriveru.blogspot.ru/2014/10/pivottableconditionalformat.html ;; google sheet condition formatting
+python6		http://stackoverflow.com/questions/68645/static-class-variables-in-python ;; class attribute static variable
+python7		https://julien.danjou.info/blog/2013/guide-python-static-class-abstract-methods ;; python abstract methods
+connector1	http://gitlab.opengest.fr/OCA/connector-magento/commit/a4b2648a8c0e71269d4234ffa96a18ab500fd7eb ;; odoo connector related actions
+connector2	https://github.com/OCA/connector/pull/54/files ;; odoo connector dnspod
+python8		http://stackoverflow.com/questions/31232098/how-to-call-super-method ;; python call super method
+ubuntu4		https://www.digitalocean.com/community/questions/language-problem-on-ubuntu-14-04 ;; postgresql locale
+amazon_aws1	https://console.aws.amazon.com/support/home?region=us-west-2#/case/?displayId=1974448891&language=en ;; amazon aws support my
+telegram1	https://github.com/LeartS/telegram-casino-bot ;; telegram casino bot
+d3js		https://d3js.org/ ;; d3js
+task1372	https://www.it-projects.info/web?#id=1372&view_type=form&model=project.task ;; signup page customization (Hesham)
+python9		https://lancelote.gitbooks.io/intermediate-python/content/book/context_managers.html ;; python contextlib
+github10	https://github.com/OCA/connector ;; github oca connector
+github11	https://github.com/OCA/connector/pull/211 ;; oca connector 10 migration pull
+python10	https://pythontips.com/2013/08/07/the-self-variable-in-python-explained/ ;; self explained
+python11	https://docs.python.org/2.4/lib/typesmethods.html ;; python im_self methods
