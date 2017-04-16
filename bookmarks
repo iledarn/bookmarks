@@ -243,3 +243,51 @@ github10	https://github.com/OCA/connector ;; github oca connector
 github11	https://github.com/OCA/connector/pull/211 ;; oca connector 10 migration pull
 python10	https://pythontips.com/2013/08/07/the-self-variable-in-python-explained/ ;; self explained
 python11	https://docs.python.org/2.4/lib/typesmethods.html ;; python im_self methods
+esquire3	https://esquire.ru/wil/rick-rubin ;; rick rubin
+vim9		https://github.com/tpope/vim-fugitive ;; vim-fugitive
+sandboxie	https://www.sandboxie.com/index.php?HowItWorks ;; sandboxie
+dropbox1	https://www.dropbox.com/developers-v1/core/docs/python#DropboxClient.revisions ;; dropbox api
+fssp		http://r02.fssprus.ru/iss/ip?is%5Bvariant%5D=1&is%5Blast_name%5D=%D0%9D%D0%B0%D1%81%D1%8B%D1%80%D0%BE%D0%B2&is%5Bfirst_name%5D=%D0%98%D0%BB%D1%8C%D0%B4%D0%B0%D1%80&is%5Bpatronymic%5D=%D0%A0%D1%83%D1%81%D1%82%D0%B0%D0%BC%D0%BE%D0%B2%D0%B8%D1%87&is%5Bdate%5D=&is%5Bregion_id%5D%5B0%5D=02 ;; sudeb prist
+task1393	https://www.it-projects.info/web?#id=1393&view_type=form&model=project.task ;; v9 to v10
+vim10		https://github.com/sjl/splice.vim/blob/master/doc/splice.txt ;; merge tool splice tool
+vim11		https://vimeo.com/25764692 ;; merge tool splice vimeo demo
+cssbootstrap1	http://getbootstrap.com/css/ ;; grid system bootstrap
+dropbox4	https://www.dropbox.com/developers/documentation/python ;; developer python sdk dropbox
+dropbox5	https://www.dropbox.com/developers/reference/oauth-guide ;; oauth-guide dropbox
+dropbox6	https://www.dropboxforum.com/t5/API-support/Public-link-for-files-in-dropbox/td-p/85709 ;; dropbox public access
+xeon1		http://775xeon.ru/spisok-materinskix-plat-podderzhivayushhix-processor-intel-xeon/#gigabyte ;; e5450 xeon
+python12	http://www.diveintopython.net/power_of_introspection/index.html ;; python the power of introspection
+github12	https://github.com/OCA/sale-workflow ;; OCA sale-workflow
+github13	https://github.com/it-projects-llc/sale-workflow ;; it-projects sale-workflow
+github14	https://github.com/iledarn/pos-addons ;; my pos-addons
+task1413	https://www.it-projects.info/web?#id=1413&view_type=form&model=project.task ;; merge branch pos-addons
+task1436	https://www.it-projects.info/web?#id=1436&view_type=form&model=project.task ;; SaaS configuration (Sevate)
+english1	https://preply.com/blog/2015/07/16/kak-pravilno-predlozhit-pomosh-na-anglijskom-neobhodimye-razgovornye-frazy/ ;; english propose help
+task1447	https://www.it-projects.info/web?#id=1447&view_type=form&model=project.task ;; install odoo Video
+yandexmusic1	https://music.yandex.ru/album/84893 ;; Glenn Miller
+yandexmusic2	https://music.yandex.ru/search?text=Jamiroquai ;; jamiroquai
+dropbox7	https://www.dropbox.com/install ;; dropbox app
+odoo16		http://bloopark.de/en_US/blog/the-bloopark-times-english-2/post/email-templates-revolution-in-odoo-10-271#blog_content ;; email template revolution
+odoo17		http://docs.makotemplates.org/en/latest/syntax.html ;; email template mako
+python13	http://www.pythonforbeginners.com/systems-programming/using-the-csv-module-in-python/ ;; csv module
+python14	https://docs.python.org/2/library/collections.html ;; python collections defaultdict
+python15	http://stackoverflow.com/questions/5900578/how-does-collections-defaultdict-work ;; python defaultdict
+python16	http://stackoverflow.com/questions/5900578/how-does-collections-defaultdict-work ;; python defaultdict
+python17	http://stackoverflow.com/questions/17912307/u-ufeff-in-python-string ;; python codecs BOM
+python18	http://stackoverflow.com/questions/8898294/convert-utf-8-with-bom-to-utf-8-with-no-bom-in-python ;; python BOM
+vim12		https://github.com/sbdchd/neoformat ;; neoformat vim plugin
+task1464	https://www.it-projects.info/web?#id=1464&view_type=form&model=project.task ;; SaaS development (Vietnam)
+odoo18		https://odootricks.wordpress.com/2014/09/18/setting-up-google-apps-authentication-for-odoo/ ;; odoo google auth
+odoo19		http://serpentcs.com/serpentcs-how-to-connect-to-odoo-using-google-account-339 ;; odoo google auth
+google2		https://developers.google.com/identity/protocols/OAuth2 ;; google oauth2
+google3		https://developers.google.com/api-client-library/python/start/get_started ;; google api client library
+google4		http://requests-oauthlib.readthedocs.io/en/latest/examples/google.html ;; google oauth2 tutorial
+google5		http://admincodebase.info/p?d=p&id=45aca00a10584b268e4d77f8a12971b4 ;; google oauth2
+bootstrap2	http://getbootstrap.com/css/ ;; bootstrap grid system
+odoo20		https://github.com/odoo/odoo/commit/679f14dc5950c340023cfda2a001fc106232de6c ;; view inheritance with wrapping support
+html1		https://github.com/yiisoft/yii2/issues/2056 ;; required fields asteriks
+google6		https://developers.google.com/recaptcha/intro?hl=ru ;; google recaptcha
+free-domains	http://wwwsu.ru/free-domains.html ;; free domains
+freenom.com	https://my.freenom.com/clientarea.php?action=domaindetails&id=1026555407 ;; my freenom
+google7		https://developers.google.com/recaptcha/docs/invisible ;; using the invisible recaptcha
+google8		https://developers.google.com/recaptcha/docs/verify ;; verify the user's response
