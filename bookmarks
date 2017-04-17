@@ -291,3 +291,23 @@ free-domains	http://wwwsu.ru/free-domains.html ;; free domains
 freenom.com	https://my.freenom.com/clientarea.php?action=domaindetails&id=1026555407 ;; my freenom
 google7		https://developers.google.com/recaptcha/docs/invisible ;; using the invisible recaptcha
 google8		https://developers.google.com/recaptcha/docs/verify ;; verify the user's response
+wkhtmltopdf	https://askubuntu.com/questions/725369/how-to-install-wkhtmltopdf-0-12-1-on-ubuntu-server-14-04 ;; wkhtmltopdf
+aws1		https://console.aws.amazon.com/billing/home?region=us-west-2#/ ;; aws billing
+aws2		https://us-west-2.console.aws.amazon.com/ec2/v2/home?region=us-west-2#Instances:sort=monitoring ;; ec2 monitoring
+archlinux7	https://wiki.archlinux.org/index.php/microcode ;; archlinux microcode
+packt1		https://www.packtpub.com/packt/offers/free-learning ;; packt free-learning
+packt2		https://www.packtpub.com/books/content/building-your-first-odoo-application ;; packt odoo 10 development
+google9		https://www.google.com/recaptcha/api2/demo ;; recaptcha demo
+google10	https://www.google.com/recaptcha/api2/demo?invisible=true ;; invisible recaptcha demo
+stackoverflow2	http://stackoverflow.com/questions/41079335/implement-the-new-invisible-recaptcha-from-google ;; google recaptcha
+archlinux8	https://wiki.archlinux.org/index.php/Dual_boot_with_Windows_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9) ;; grub dual boot
+windows7	https://rednager.xyz/obhod-ogranichenij-yota-na-razdachu-wi-fi-tethering/ ;; windows7 ttl 65
+archlinux9	https://wiki.archlinux.org/index.php/GRUB_(%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9) ;; archlinux grub
+openssh1	https://www.cyberciti.biz/tips/linux-unix-bsd-openssh-server-best-practices.html ;; top 20 openssh security practices
+pysftp1		https://pypi.python.org/pypi/pysftp ;; pysftp changelog
+odoo21		https://www.odoo.com/documentation/9.0/reference/javascript.html ;; javascript module system
+requirejs	http://requirejs.org/ ;; requirejs
+jquery3		https://api.jquery.com/ready/ ;; jquery ready
+nakedsecurity	https://nakedsecurity.sophos.com/2014/12/05/i-am-not-a-robot-google-swaps-text-captchas-for-quivery-mouse-clicks/ ;; google recaptcha article
+odoo22		http://serpentcs.com/serpentcs-odoo-tips-of-the-month-september-2016-366 ;; serpent tips
+odoo23		https://pypi.python.org/pypi/bobtemplates.odoo ;; odoo bobtemplates
