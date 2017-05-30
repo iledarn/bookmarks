@@ -311,3 +311,55 @@ jquery3		https://api.jquery.com/ready/ ;; jquery ready
 nakedsecurity	https://nakedsecurity.sophos.com/2014/12/05/i-am-not-a-robot-google-swaps-text-captchas-for-quivery-mouse-clicks/ ;; google recaptcha article
 odoo22		http://serpentcs.com/serpentcs-odoo-tips-of-the-month-september-2016-366 ;; serpent tips
 odoo23		https://pypi.python.org/pypi/bobtemplates.odoo ;; odoo bobtemplates
+odoo34		https://apps.openerp.com/apps/modules/10.0/contract_variable_quantity/ ;; contract recurring invoices
+odoo35		http://bloopark.de/en_US/blog/the-bloopark-times-english-2/post/new-accounting-features-in-odoo-10-part-2-accounting-entries-and-bank-interface-261#blog_content ;; odoo accounting
+english1	https://twitter.com/fpodoo/status/854013927742681088?s=09 ;; fabien teaches
+lightbox1	http://arduinobasics.blogspot.ru/2015/10/arduino-led-light-box.html ;; lightbox
+odoo36		https://github.com/odoo/odoo/pull/16254 ;; odoo performance fix
+odoo37		https://www.odoo.com/page/subscriptions ;; odoo subscriptions
+megaplan	http://megaplanfree.ru/ ;; megaplan
+dropbox8	https://www.dropbox.com/install-linux ;; dropbox linux daemon
+task1494	https://www.it-projects.info/web?#id=1494&view_type=form&model=project.task ;; saas ssl (Dhafer)
+task1144	https://www.it-projects.info/web#id=1144&view_type=form&model=project.task&menu_id=440&action=571 ;; s3 images url attachment
+films1		https://esquire.ru/directors-favourite-films ;; directors favourite films
+films2		https://ru.wikipedia.org/wiki/%D0%94%D1%80%D0%B5%D0%B2%D0%BE_%D0%B6%D0%B8%D0%B7%D0%BD%D0%B8_(%D1%84%D0%B8%D0%BB%D1%8C%D0%BC) ;; film drevo zhizni
+quartet1	https://gist.github.com/iledarn/ec2238943d507e97c0af465f28d8e476 ;; quartet gist notes
+python19	http://stackoverflow.com/questions/1708510/python-list-vs-tuple-when-to-use-each ;; ptyhon tuple vs list
+esquire4	https://esquire.ru/lycurgus ;; esquire history 299
+task1137	https://www.it-projects.info/web#id=1137&view_type=form&model=project.task&action=571 ;; it-projects connector-odoo2odoo
+github15	https://github.com/it-projects-llc/connector-odoo2odoo ;; it-projects connector odoo2odoo
+github16	https://github.com/OCA/queue ;; oca queue
+films3		https://www.kinopoisk.ru/film/669902/ ;; La vie d'Adèle
+portnov1	https://www.portnov.com/ ;; portnov computer school
+task1334	https://www.it-projects.info/web?#id=1334&view_type=form&model=project.task ;; release 6
+task1520	https://www.it-projects.info/web?#id=1520&view_type=form&model=project.task ;; saas demo merge saas issue
+task1518	https://www.it-projects.info/web?#action=mail.action_mail_redirect&model=project.task&res_id=1518 ;; saas visiohub
+digitalocean1	https://www.digitalocean.com/community/tutorials/how-to-create-a-sudo-user-on-ubuntu-quickstart ;; add the user to the sudo group
+portnov1	https://www.youtube.com/watch?v=2MPxfLGiyv4&list=PL7XXjge0nKZfdUbBb69NHYlffwzR1ESkA&index=28 ;; stazhirovka
+tmux12		https://jordanelver.co.uk/blog/2010/11/27/automatically-attaching-to-a-tmux-session-via-ssh/ ;; ssh attach
+task1520	https://www.it-projects.info/web?#id=1520&view_type=form&model=project.task ;; saas global name plan issue
+task1523	https://www.it-projects.info/web?#id=1523&view_type=form&model=project.task ;; saas issue 508
+noblerush1	http://digital.noblerush.com:8080/job/noblerushdigital/ ;; noblerush jenkins
+task1521	https://www.it-projects.info/web?#id=1521&view_type=form&model=project.task ;; saas 8.0 issue
+gist1		https://gist.github.com/iledarn/468a24f9918b6bb52263aa48b82dc137 ;; deploy saas demo
+task1522	https://www.it-projects.info/web?#id=1522&view_type=form&model=project.task ;; SaaS 8 and Let's encrypt module
+task1526	https://www.it-projects.info/web?#id=1526&view_type=form&model=project.task&action=152&active_id=27 ;; odoo-saas-tools github issues, PR
+task1086	https://www.it-projects.info/web?#id=1086&view_type=form&model=project.task ;; saas fund raising
+youtube1	https://www.youtube.com/watch?v=O2YvgGeJIHg ;; Tony Robbins - Best video
+task1518	https://www.it-projects.info/web?#id=1518&view_type=form&model=project.task ;; Error in SaaS (visiohub)
+youtube2	https://www.youtube.com/watch?v=LjrbZlBISDo ;; Tony Robbins marriage
+youtube3	https://www.youtube.com/watch?v=LsqTZZUM--M ;; Tony Robbins broken relationship
+youtube4	https://www.youtube.com/watch?v=PQpwTOGXWNs ;; Portnov Window
+portnov1	https://www.youtube.com/watch?v=OoWFoJ9r_bw ;; portnov money1
+python20	http://stackoverflow.com/questions/27658067/can-a-python-function-call-a-global-function-with-the-same-name ;; python LEGB
+odoo38		https://www.odoo.com/forum/help-1/question/clients-queue-system-89696 ;; odoo clients queue system
+kubik		http://soberi-kubik.ru/%D0%BA%D0%B0%D0%BA_%D1%81%D0%BE%D0%B1%D1%80%D0%B0%D1%82%D1%8C_%D0%BA%D1%83%D0%B1%D0%B8%D0%BA_%D1%80%D1%83%D0%B1%D0%B8%D0%BA%D0%B0_%D1%88%D0%B0%D0%B31.html ;; soberi-kubik
+task1445	https://www.it-projects.info/web#id=1445&view_type=form&model=project.task&menu_id=147&action=155 ;; cash box
+task1547	https://www.it-projects.info/web?#id=1547&view_type=form&model=project.task ;; saas expose
+gist2		https://gist.github.com/iledarn/ef2bb13fbcf3ad0dce6ac2cd0e86cf38 ;; install st-solarized
+esquire5	https://esquire.ru/procrastination ;; procrastination
+tmux13		http://lgfang.github.io/mynotes/utils/tmux.html ;; tmux tips
+tmux14		https://stackoverflow.com/questions/8518815/how-to-send-commands-when-opening-a-tmux-session-inside-another-tmux-session ;; tmux session inside session
+task1201	https://www.it-projects.info/web?#id=1201&view_type=form&model=project.task ;; ir_attachment_s3 doc
+task1548	https://www.it-projects.info/web?#id=1548&view_type=form&model=project.task ;; ir_attachment_s3 upload existed
+docker10	https://techoverflow.net/2013/10/22/docker-remove-all-images-and-containers/ ;; docker remove all
