@@ -363,3 +363,78 @@ tmux14		https://stackoverflow.com/questions/8518815/how-to-send-commands-when-op
 task1201	https://www.it-projects.info/web?#id=1201&view_type=form&model=project.task ;; ir_attachment_s3 doc
 task1548	https://www.it-projects.info/web?#id=1548&view_type=form&model=project.task ;; ir_attachment_s3 upload existed
 docker10	https://techoverflow.net/2013/10/22/docker-remove-all-images-and-containers/ ;; docker remove all
+quartetissue130	https://www.it-projects.info/web?#action=91 ;; quartet issue #130
+tmuxvim1	https://blog.bugsnag.com/tmux-and-vim/ ;; tmux and vim
+vim-tmux-navigator1	https://github.com/christoomey/vim-tmux-navigator/issues/41 ;; issue with vim in ssh
+gist3		https://gist.github.com/iledarn/df2b4fb7353b5392b38b123798b3f8db ;; dev-sever ssh command
+mosh1		https://mosh.org/ ;; mosh official
+mosh2		https://habrahabr.ru/post/267797/ ;; mosh original first site
+gist4		https://gist.github.com/iledarn/edf785592e64c90da70efd084987d9c8 ;; shell.rst
+xterm1		https://wiki.archlinux.org/index.php/Xterm ;; xterm configuration
+fish1		http://cdtuonela.i90rr.tk/something-fishy-happening-here.html ;; fish1
+fish2		https://wiki.archlinux.org/index.php/Fish ;; fish archlinux
+home1		http://altima-stroy.ru/doma-iz-brusa/kottedzh__bk_131 ;; altime-stroy
+docker11	https://docs.docker.com/ ;; docker docs
+docker12	https://docs.docker.com/v1.13/ ;; docker docs v1.13
+bash2		https://askubuntu.com/questions/346900/what-does-set-e-do ;; set -e
+toefl1		https://www.youtube.com/watch?v=iD9Q5P2zkdw&feature=youtu.be ;; toefl mogilenko
+gmat1		gmatpill.com ;; gmat
+english2	https://www.youtube.com/watch?v=aC1iG7CS3lo ;; Anastacia Kay advice
+neuroscience1	https://www.youtube.com/watch?v=ORthzIOEf30 ;; ted Robert Sapolsky
+gem1		https://wiki.archlinux.org/index.php/Ruby ;; archlinux ruby gem
+youtube5	https://www.youtube.com/watch?v=21j_OCNLuYg ;; life is easy
+ted1		https://www.youtube.com/watch?v=GgBpyNsS-jU ;; life is easy2
+ted2		https://www.youtube.com/watch?v=a2MR5XbJtXU ;; diaphragm
+ted3		https://www.youtube.com/watch?v=Uq-FOOQ1TpE ;; ted funny boy
+ted4		https://www.youtube.com/watch?v=O96fE1E-rf8 ;; ted procrastination
+ted5		https://www.youtube.com/watch?v=ORthzIOEf30&index=3&list=UUAuUUnT6oDeKwE6v1NGQxug ;; ted Robert Sapolsky
+task1572	https://www.it-projects.info/web?#id=1572&view_type=form&model=project.task ;; WPS import
+api1		https://www.dreamfactory.com/features ;; dreamfactory
+handle		http://www.handle.com/ ;; handle
+wpsapi1		http://docs.wps-inc.com/docs/services/attributes/ ;; WPS API Attributes
+wpsapi2		http://docs.wps-inc.com/docs/services/blocks/ ;; WPS API Blocks
+wpsapi3		http://docs.wps-inc.com/docs/services/brands/ ;; WPS API Brands
+wpsapi4		http://docs.wps-inc.com/docs/services/countries/ ;; WPS API Countries
+wpsapi5		http://docs.wps-inc.com/docs/services/features/ ;; WPS API Features
+wpsapi6		http://docs.wps-inc.com/docs/services/images/ ;; WPS API Images
+wpsapi7		http://docs.wps-inc.com/docs/services/products/ ;; WPS API Products
+wpsapi8		http://docs.wps-inc.com/docs/services/items/ ;; WPS API Items
+wpsapi9		http://docs.wps-inc.com/docs/services/resources/ ;; WPS API Resources
+wpsapi10	http://docs.wps-inc.com/docs/services/tags/ ;; WPS API Tags
+wiki1		https://en.wikipedia.org/wiki/Nested_set_model ;; Nested set model
+wpsapi11	http://docs.wps-inc.com/docs/services/taxonomyterms/ ;; Taxonomyterms
+wpsapi12	http://docs.wps-inc.com/docs/services/vehicles/ ;; WPS API Vehicles
+wpsapi13	http://docs.wps-inc.com/docs/services/vehiclemakes/ ;; WPS API Vehiclemakes
+wpsapi14	http://docs.wps-inc.com/docs/services/vehiclemodels/ ;; WPS API Vehiclemodels
+wpsapi15	http://docs.wps-inc.com/docs/services/vehicleyears/ ;; WPS API Vehicleyears
+wpsapi16	http://docs.wps-inc.com/docs/services/vocabularies/ ;; WPS API Vocabularies
+containers1	http://containerops.org/2013/11/19/lxc-networking/ ;; lxc-networking
+odoo-development1	https://odoo-development.readthedocs.io/en/latest/remote-dev/lxd/lxd.html ;; LXD Containers
+wpsapi17	http://docs.wps-inc.com/docs/helpers/pagination/ ;; WPS API Pagination
+odoo39		https://www.odoo.com/documentation/10.0/reference/translations.html ;; doc translation
+task1554	https://www.it-projects.info/web?#id=1554&view_type=form&model=project.task&action=155 ;; create wizard
+saasdoc1	http://odoo-saas-tools.readthedocs.io/en/10.0/setup/install.html ;; manual install
+odoo40		https://www.odoo.com/blog/odoo-news-5/post/manage-your-meetings-with-odoo-177 ;; odoo blog
+odoo41		https://www.odoo.com/event ;; odoo event
+stevenocchipinti1		http://blog.stevenocchipinti.com/2012/02/copy-and-paste-over-ssh-with-xclip.html/ ;; ssh with xclip
+ubuntu6		https://askubuntu.com/questions/438451/could-not-open-display-null-error-how-can-i-fix-this ;; DISPLAY
+lemonade1	https://github.com/pocke/lemonade ;; github lemonade
+neovim1		https://github.com/neovim/neovim/blob/master/runtime/autoload/provider/clipboard.vim ;; nvim clipboard
+lemonade2	https://gist.github.com/bketelsen/27c2cd5b1376e72e240321baa0fbc81a ;; lemonade how to use
+task736		https://www.it-projects.info/web?#id=736&view_type=form&model=project.task ;; saas documentation api.rst about compiling
+queuemanagement1	http://skiplino.com/ ;; skiplino
+home2		http://www.strojuslugi.ru/goods/73948246-komplexnoye_stroitelstvo_zagorodnogo_doma ;; complex stroy
+home3		https://www.youtube.com/watch?v=BWLlXW5QJAY ;; karkas ufa
+task1216	https://www.it-projects.info/web?#id=1216&view_type=form&model=project.task ;; my finance
+telegram2	https://core.telegram.org/bots ;; bots
+telegram3	https://core.telegram.org/bots/api ;; bots api
+iptables1	http://dev-notes.eu/2016/08/persistent-iptables-rules-in-ubuntu-16-04-xenial-xerus/ ;; iptables-persistent ubutnu 16
+iptables2	https://stackoverflow.com/questions/10197405/how-can-i-remove-specific-rules-from-iptables ;; drop the rule
+iptables3	https://cdavis.us/2016/06/17/saving-iptables-rules-ubuntu-16-04/ ;; iptables-pwersitent
+youtube6	https://www.youtube.com/watch?v=MWt9hP84ffg ;; minimalizm
+tony1		https://www.youtube.com/watch?v=_S8QtLR-gZs ;; tony exerpts
+tony2		https://www.youtube.com/watch?v=vNY23UrDWj0 ;; achieve and enjoy
+home4		http://xn-----clcbblex2anpecbtncfndd2t.xn--p1ai/derevo/?utm_source=yandex&utm_medium=cpc&utm_campaign=cid|23342026|context&utm_content=gid|2219798800|aid|3344921998|8098634824_&utm_term=%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D1%8F%D0%BD%D0%BD%D1%8B%D1%85%20%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2&pm_source=vk.com&pm_block=none&pm_position=0&yclid=3412549071044353142 ;; bash-grand-stroi
+home5		http://bashecodom.ru/catalog/doma_iz_brusa/?utm_source=yandex&utm_medium=cpc&utm_campaign=doma_iz_brusa_rsya&type=context&source=vk.com&block=none&position=0&keyword=%D1%81%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B4%D0%BE%D0%BC%D0%BE%D0%B2%20%D1%83%D1%84%D0%B0&yclid=3412573317881137213 ;; bashecodom
+task1591	https://www.it-projects.info/web?#id=1591&view_type=form&model=project.task ;; merge vietnam updates
+tuckerrocky.com	http://tuckerrocky.com/consumers.html ;; tuckerrocky.com consumers
