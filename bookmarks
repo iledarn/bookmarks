@@ -446,3 +446,4 @@ vim13		https://github.com/junegunn/gv.vim ;; gv.vim - alterative for gitv
 github17	https://github.com/iledarn/odoo-telegram ;; my odoo-telegram
 travis1		https://travis-ci.org/it-projects-llc ;; travis it-projects-llc
 youtube7	https://www.youtube.com/watch?v=cN_DpYBzKso ;; Rob Pike Concurrency is not Parallelism
+task1615	https://www.it-projects.info/web?#id=1615&view_type=form&model=project.task ;; myfinance constant menu like in BotFather
