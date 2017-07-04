@@ -341,7 +341,6 @@ task1520	https://www.it-projects.info/web?#id=1520&view_type=form&model=project.
 task1523	https://www.it-projects.info/web?#id=1523&view_type=form&model=project.task ;; saas issue 508
 noblerush1	http://digital.noblerush.com:8080/job/noblerushdigital/ ;; noblerush jenkins
 task1521	https://www.it-projects.info/web?#id=1521&view_type=form&model=project.task ;; saas 8.0 issue
-gist1		https://gist.github.com/iledarn/468a24f9918b6bb52263aa48b82dc137 ;; deploy saas demo
 task1522	https://www.it-projects.info/web?#id=1522&view_type=form&model=project.task ;; SaaS 8 and Let's encrypt module
 task1526	https://www.it-projects.info/web?#id=1526&view_type=form&model=project.task&action=152&active_id=27 ;; odoo-saas-tools github issues, PR
 task1086	https://www.it-projects.info/web?#id=1086&view_type=form&model=project.task ;; saas fund raising
@@ -447,3 +446,17 @@ github17	https://github.com/iledarn/odoo-telegram ;; my odoo-telegram
 travis1		https://travis-ci.org/it-projects-llc ;; travis it-projects-llc
 youtube7	https://www.youtube.com/watch?v=cN_DpYBzKso ;; Rob Pike Concurrency is not Parallelism
 task1615	https://www.it-projects.info/web?#id=1615&view_type=form&model=project.task ;; myfinance constant menu like in BotFather
+interesting1	https://xebia.com/about-us ;; xebia
+xebia1		http://blog.xebia.com/5-ways-to-organize-agile-teams/ ;; xebia teams
+vim14		https://vi.stackexchange.com/questions/444/how-do-i-reload-the-current-file ;; set autoread
+vim15		http://vimdoc.sourceforge.net/htmldoc/starting.html#:suspend ;; documentation list of parameters
+hr1		http://swiss-tech.biz/?yclid=3657842832345666319 ;; swiss-tech
+saas_demo1	https://github.com/it-projects-llc/odoo-saas-tools/blob/10.0/docs/demo/saas-demo.rst ;; deploy saas demo
+gist5		https://gist.github.com/iledarn/c8c3e88700b90d950e2353d2ecff4a19 ;; football install
+gist6		https://gist.github.com/iledarn/4b74025bc7a9b65a1c1b9298ae9317da ;; install 1464
+gist7		https://gist.github.com/iledarn/7b72abcdacdbc7ce6383366b64c28b5e ;; fottball reminder
+stack1		https://stackoverflow.com/questions/24391078/how-to-change-the-default-message-of-the-required-field-in-the-popover-of-form-c ;; translate bootstrap messages
+task1479	https://www.it-projects.info/web?#id=1479&view_type=form&model=project.task ;; football booking reminder bug
+task1478	https://www.it-projects.info/web?#id=1478&view_type=form&model=project.task ;; football bug change pitch makes double booking overlap
+odoo-development1	https://odoo-development.readthedocs.io/en/latest/git/init.html#gpg-keys ;; gpg keys
+archlinux10	https://gist.github.com/iledarn/4ab5cc5a90c190941b1e3755e7925c37 ;; install and setup gnupg
