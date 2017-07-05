@@ -458,5 +458,8 @@ gist7		https://gist.github.com/iledarn/7b72abcdacdbc7ce6383366b64c28b5e ;; fottb
 stack1		https://stackoverflow.com/questions/24391078/how-to-change-the-default-message-of-the-required-field-in-the-popover-of-form-c ;; translate bootstrap messages
 task1479	https://www.it-projects.info/web?#id=1479&view_type=form&model=project.task ;; football booking reminder bug
 task1478	https://www.it-projects.info/web?#id=1478&view_type=form&model=project.task ;; football bug change pitch makes double booking overlap
-odoo-development1	https://odoo-development.readthedocs.io/en/latest/git/init.html#gpg-keys ;; gpg keys
+odoo-development2	https://odoo-development.readthedocs.io/en/latest/git/init.html#gpg-keys ;; gpg keys
 archlinux10	https://gist.github.com/iledarn/4ab5cc5a90c190941b1e3755e7925c37 ;; install and setup gnupg
+python21	https://stackoverflow.com/questions/4831680/if-function-a-is-required-only-by-function-b-should-a-be-defined-inside-b ;; python closure
+task1297	https://www.it-projects.info/web?#id=1297&view_type=form&model=project.task ;; Indo sync
+task1629	https://www.it-projects.info/web?#id=1629&view_type=form&model=project.task ;; Indo issues
