@@ -463,3 +463,14 @@ archlinux10	https://gist.github.com/iledarn/4ab5cc5a90c190941b1e3755e7925c37 ;; 
 python21	https://stackoverflow.com/questions/4831680/if-function-a-is-required-only-by-function-b-should-a-be-defined-inside-b ;; python closure
 task1297	https://www.it-projects.info/web?#id=1297&view_type=form&model=project.task ;; Indo sync
 task1629	https://www.it-projects.info/web?#id=1629&view_type=form&model=project.task ;; Indo issues
+ycombinator	https://news.ycombinator.com/ ;; hacker news
+task1633	https://www.it-projects.info/web?#id=1633&view_type=form&model=project.task ;; Indo About category
+docker13	https://stackoverflow.com/questions/28471224/duplicating-docker-container-for-debugging ;; Duplicating docker container for debugging
+flask1		http://flask.pocoo.org/ ;; python flask
+docker14	https://docs.docker.com/engine/userguide/networking/default_network/dockerlinks/#communication-across-links ;; --link
+docker15	https://docs.docker.com/engine/tutorials/dockervolumes/ ;; data volumes
+docker16	https://docs.docker.com/engine/tutorials/dockervolumes/#mount-a-host-directory-as-a-data-volume ;; mount a host directory
+gist8		https://gist.github.com/iledarn/2f27ce55cef0bfe1c1eb165e6a2531c4 ;; postgresql
+docker17	https://stackoverflow.com/questions/18496940/how-to-deal-with-persistent-storage-e-g-databases-in-docker?rq=1 ;; persistent storage
+busybox1	https://www.busybox.net/ ;; busybox
+docker18	https://docs.docker.com/compose/overview/ ;; compose overview
