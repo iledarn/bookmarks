@@ -474,3 +474,37 @@ gist8		https://gist.github.com/iledarn/2f27ce55cef0bfe1c1eb165e6a2531c4 ;; postg
 docker17	https://stackoverflow.com/questions/18496940/how-to-deal-with-persistent-storage-e-g-databases-in-docker?rq=1 ;; persistent storage
 busybox1	https://www.busybox.net/ ;; busybox
 docker18	https://docs.docker.com/compose/overview/ ;; compose overview
+flocker1	https://clusterhq.com/flocker/introduction/ ;; flocker introduction
+flocker2	https://flocker.readthedocs.io/en/latest/docker-integration/tutorial-swarm-compose.html ;; flocker docs
+gist9		https://gist.github.com/iledarn/8cf551f65ccf743b2c4a2cbd2247f4d7 ;; mydocker
+flocker3	https://sreeninet.wordpress.com/2015/07/13/flocker-docker-volumes/ ;; flocker docker volumes
+flocker4	https://clusterhq.com/2016/12/22/clusterf-ed/ ;; clusterf-ed
+esquire6	https://esquire.ru/dying-blog ;; cancer
+vim16		http://codyveal.com/posts/vim-killer-features-part-2-file-navigation/ ;; vim killer feature
+vim17		http://www.drbunsen.org/the-text-triumvirate/ ;; vim triumvirate
+archlinux11	https://archlabsblog.wordpress.com/?gclid=CJGzvtbU9tQCFVllGQodjFUISQ ;; archlabs
+esquire7	https://esquire.ru/what_is_your_law ;; what is your law
+task1639	https://www.it-projects.info/web?#id=1639&view_type=form&model=project.task ;; automatic nginx configuration
+odootranslation1	https://www.slideshare.net/ranjit_mca/translation-engine-in-odoo-52657290 ;; translation in odoo
+odootranslation2	https://www.drupal.org/node/1814954 ;; po pot odoo translation
+postgresql1	https://www.postgresql.org/docs/9.2/static/ddl-constraints.html ;; ON DELETE RESTRICT
+quartetissue150	https://github.com/NobleRushDigital/Quartet/issues/150 ;; categorize the tucker products
+wiki2		https://en.wikipedia.org/wiki/GUID_Partition_Table ;; GUID Partition Table
+books3		http://www.mckinsey.com/global-themes/leadership/what-ceos-are-reading-in-2017 ;; what ceos are reading
+flaskclick1	http://click.pocoo.org/5/ ;; flask click
+virtualenv1	http://python-guide-pt-br.readthedocs.io/en/latest/dev/virtualenvs/ ;; python virtualenv
+virtualenv2	http://eax.me/python-virtualenv/ ;; memo python virtualenv
+ted6		https://www.youtube.com/watch?v=o8NPllzkFhE ;; Linus Torvalds
+linus1		https://www.youtube.com/watch?v=4XpnKHJAok8 ;; Linus Torvalds on git
+x2go5		http://srobb.net/nxreplace.html ;; x2go vs xpra
+docker-desctop	https://github.com/iledarn/docker-desktop ;; docker-desktop
+ssh4		https://ru.wikibooks.org/wiki/SSH_%D1%82%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5 ;; ssh tunnel
+dockerdescrop1	https://blog.jessfraz.com/post/runc-containers-on-the-desktop/ ;; run containers on the desktop
+task1652	https://www.it-projects.info/web?#id=1652&view_type=form&model=project.task ;; Checklist
+lxd1		https://stgraber.org/2016/03/26/lxd-2-0-resource-control-412/ ;; lxd resource control
+task1659	https://www.it-projects.info/web?#id=1659&view_type=form&model=project.task ;; install-addons issue with UPDATE_ADDONS_PATH
+connector3	https://github.com/OCA/connector/pull/231 ;; OCA connector pull 231
+oninvalid1	https://stackoverflow.com/questions/5272433/html5-form-required-attribute-set-custom-validation-message ;; set custom validity2
+oninvalid2	https://stackoverflow.com/questions/24391078/how-to-change-the-default-message-of-the-required-field-in-the-popover-of-form-c ;; set custom validity1
+oninvalid3	http://www.webdeveloper.com/forum/showthread.php?231150-RESOLVED-onCheck-event-for-checkbox ;; oncheck event for checkbox
+skiplino1	https://skiplino.freshdesk.com/support/solutions/articles/9000084789-skiplino-for-business-setup-guide ;; skiplin for business setup guide
