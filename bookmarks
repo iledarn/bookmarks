@@ -511,3 +511,8 @@ skiplino1	https://skiplino.freshdesk.com/support/solutions/articles/9000084789-s
 base16_1	https://github.com/chriskempson/base16-xresources ;; base16-xresources
 film4		https://esquire.ru/baltic-detective-movies ;; detective
 github15	https://github.com/moby/moby ;; devops moby
+python22	http://adw0rd.com/2012/10/7/python-pdb/ ;; python debugging with pdb
+python23	https://pythonconquerstheuniverse.wordpress.com/2009/09/10/debugging-in-python/ ;; debugging in python
+postgresql2	https://wiki-bsse.ethz.ch/display/ITDOC/Check+size+of+tables+and+objects+in+PostgreSQL+database ;; postgresql size of tables
+music1		http://www.bbc.co.uk/programmes/b08ybtq4#play ;; Iggy Confidential
+requests1	http://docs.python-requests.org/en/master/api/ ;; requests developer interface
