@@ -516,3 +516,7 @@ python23	https://pythonconquerstheuniverse.wordpress.com/2009/09/10/debugging-in
 postgresql2	https://wiki-bsse.ethz.ch/display/ITDOC/Check+size+of+tables+and+objects+in+PostgreSQL+database ;; postgresql size of tables
 music1		http://www.bbc.co.uk/programmes/b08ybtq4#play ;; Iggy Confidential
 requests1	http://docs.python-requests.org/en/master/api/ ;; requests developer interface
+mail.group26	https://www.it-projects.info/web?#id=26&view_type=form&model=mail.group ;; Apps reports
+tmux15		http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/ ;; tmux pretty
+tmuxvimzsh1	https://www.codementor.io/linux/tutorial/configure-linux-toolset-zsh-tmux-vim ;; zsh-tmux-vim
+tmux16		https://github.com/rothgar/awesome-tmux ;; awesome tmux
