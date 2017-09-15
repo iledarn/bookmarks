@@ -520,3 +520,57 @@ mail.group26	https://www.it-projects.info/web?#id=26&view_type=form&model=mail.g
 tmux15		http://www.hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/ ;; tmux pretty
 tmuxvimzsh1	https://www.codementor.io/linux/tutorial/configure-linux-toolset-zsh-tmux-vim ;; zsh-tmux-vim
 tmux16		https://github.com/rothgar/awesome-tmux ;; awesome tmux
+radio1		http://streema.com/radios/play/2423 ;; radio1
+vnc2		https://wiki.archlinux.org/index.php/TigerVNC ;; vnc tigervnc
+vnc3		http://leranda.com/2014/03/connect-to-physical-display-using-tigervnc/ ;; vnc same display
+odoo24		https://www.odoo.com/blog/odoo-news-5/post/the-odoo-story-56 ;; Fabien post
+bootstrap3	https://formden.com/blog/date-picker ;; bootstrap datepicker
+bootstrap4	http://www.eyecon.ro/bootstrap-datepicker/ ;; datepicker examples
+datepicker1	https://jqueryui.com/datepicker/#animation ;; datepicker
+simple_form	https://github.com/plataformatec/simple_form/wiki/How-to-use-Bootstrap-3-input-group-in-Simple-Form ;; simple_form
+bootstrap5	https://v4-alpha.getbootstrap.com/components/forms/ ;; bootstrap components
+bootstrap6	https://stackoverflow.com/questions/16852484/use-fieldset-legend-with-bootstrap ;; bootstrap fieldset
+esquire8	https://esquire.ru/undercover ;; esquire undercover
+esauire9	https://esquire.ru/10-stephen-king-novels ;; stephen king novels
+investopedia1	http://www.investopedia.com/terms/f/freecashflow.asp ;; free cash flow
+task1713	https://www.it-projects.info/web?#id=1713&view_type=form&model=project.task ;; checklist updates
+task1688	https://www.it-projects.info/web?#id=1688&view_type=form&model=project.task ;; website_multi_company: multi theme support
+dropbox9	https://github.com/dropbox/dropbox-sdk-python/blob/master/example/back-up-and-restore/backup-and-restore-example.py ;; check that token is valid
+task1725	https://www.it-projects.info/web?#id=1725&view_type=form&model=project.task ;; lottery technical specification
+procrastination1	https://lifehacker.ru/2015/03/16/kak-pobedit-prokrastinatsiyu/ ;; procrastination
+onet		https://www.onetonline.org/find/descriptor/browse/Abilities/ ;; onet abilities
+task1688	https://www.it-projects.info/web#id=1688&view_type=form&model=project.task&action=152&active_id=65 ;; website_multi_company - multi_theme
+gist10		https://gist.github.com/iledarn/5bc513302c1c5d38358d6f21b0490e0d ;; install multidemo
+github10	https://github.com/iledarn/maintainer-quality-tools ;; maintainer-quality-tools
+gist11		https://gist.github.com/iledarn/7d4e95b4d929b0a383c3e98fd784dfc9 ;; demo install
+github18	https://github.com/it-projects-llc/runbot-addons/blob/8.0/runbot_custom/models.py#L477-L478 ;; setting up postfix
+gist12		https://gist.github.com/iledarn/630049c2c31feb4a3bf27450b09c5483 ;; install lottery
+task1738	https://www.it-projects.info/web?#id=1738&view_type=form&model=project.task ;; website_sale_contract
+odoo25		https://www.odoo.com/documentation/10.0/reference/guidelines.html ;; guidelines
+task1740	https://www.it-projects.info/web?#id=1740&view_type=form&model=project.task ;; kingfisher ir_attachment_s3
+odoo26		https://www.odoo.com/documentation/user/10.0/accounting/others/analytic/usage.html ;; analytic account use cases
+odoo27		https://www.odoo.com/apps/modules/8.0/pos_analytic_by_config/ ;; OCA pos analytic config
+odoo28		http://ieor.berkeley.edu/~kaminsky/Reprints/NSF06b.pdf	 ;; MTO/MTS
+gist13		https://gist.github.com/iledarn/5f6b9d129985c321cfd0a5bde9602b18 ;; install attachment
+odoo42		https://github.com/odoo/odoo/issues/16072 ;; dynamic domains
+odooblog1	http://ludwiktrammer.github.io/ ;; Ludwik
+youtube8	https://www.youtube.com/watch?v=8GGWedu77SA ;; vDut' Gnoinyi
+datarecovery1	https://hetmanrecovery.com/ru/information_recovery/software-2.htm ;; hetman recovery
+datarecovery2	http://help.ubuntu.ru/wiki/%D0%B2%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5_%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85 ;; testdisk
+webkul2		https://webkul.com/blog/pos-warehouse-management/ ;; pos warehouse management
+gist14		https://gist.github.com/iledarn/20773f8a6f40f2d7aeb73576267ca399 ;; vnc share my screen
+javascript1	https://stackoverflow.com/questions/11189136/fire-oninput-event-with-jquery ;; changing val() directly would not trigger the html5 oninput
+javascript2	https://stackoverflow.com/questions/6471959/jquery-datepicker-onchange-event-help ;; datepicker onchange event
+javascript3	https://github.com/dodo/jquery-inputevent ;; jquery inputevent
+javascript4	https://forum.jquery.com/topic/html5-oninput-event ;; html5 oninput event
+javascript5	https://github.com/Eonasdan/bootstrap-datetimepicker/issues/186 ;; bootstrap datepicker onchange
+javascript6	https://github.com/t1m0n/air-datepicker/issues/60 ;; datepicker onchange solution
+javascript7	https://soledadpenades.com/2010/06/12/using-jquerys-inline-datepicker-within-a-form/ ;; datepicker inline
+task1483	https://www.it-projects.info/web?#id=1483&view_type=form&model=project.task ;; it-projects.info to 10
+vim18		http://vim.wikia.com/wiki/User_input_from_a_script ;; vim user input from a script
+vim19		http://www.jonathansacramento.com/posts/20160122-improve-postgresql-workflow-vim-dbext.html ;; dbext postgresql
+jquery4		http://gregfranko.com/jquery.selectBoxIt.js/ ;; jquery plugin selectboxit
+telebot1	https://github.com/eternnoir/pyTelegramBotAPI ;; pyTelegramBotAPI
+javascript8	https://www.html5rocks.com/en/tutorials/developertools/sourcemaps/ ;; sourcemaps
+trubotorg1	http://trubotorgrb.ru/prays.html ;; trubotorg
+werkzeug1	http://werkzeug.pocoo.org/docs/0.12/routing/ ;; werkzeug routing
