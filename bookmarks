@@ -588,3 +588,13 @@ pythonre2	https://github.com/tartley/python-regex-cheatsheet/blob/master/cheatsh
 gist15		https://gist.github.com/iledarn/dca81a3d57245d05b58d077231698a2e ;; install backport s3
 odooissue8773	https://github.com/odoo/odoo/issues/8773 ;; misusing the computation mechanism of fields
 films4		https://esquire.ru/10-best-palm-winners ;; esquire palm winners
+task1660	https://www.it-projects.info/web#id=1660&view_type=form&model=project.task&menu_id=440&action=571 ;; release 8
+tmux17		https://superuser.com/questions/343572/how-do-i-reorder-tmux-windows ;; move-window swap-window reorder windows
+utf1		https://stackoverflow.com/questions/18664712/split-function-add-xef-xbb-xbf-n-to-my-list ;; UTF BOM in the beginning
+gist16		https://gist.github.com/iledarn/b9c586e530b645dffa770c95f5a2c6b8 ;; install require login
+task813		https://www.it-projects.info/web?#id=813&view_type=form&model=project.task ;; move im_notif to mail-addons
+github19	https://github.com/it-projects-llc/mail-addons ;; mail-addons
+task1592	https://www.it-projects.info/web?#id=1592&view_type=form&model=project.task ;; transifex
+task1814	https://www.it-projects.info/web?#id=1814&view_type=form&model=project.task ;; [BACKPORT] ir_attachment_url
+dev1		https://odoo-development.readthedocs.io/en/latest/git/files-relocation.html ;; file relocation
+vim20		http://ctoomey.com/posts/an-incremental-approach-to-vim/ ;; an incremental approach to vim
