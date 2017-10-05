@@ -598,3 +598,22 @@ task1592	https://www.it-projects.info/web?#id=1592&view_type=form&model=project.
 task1814	https://www.it-projects.info/web?#id=1814&view_type=form&model=project.task ;; [BACKPORT] ir_attachment_url
 dev1		https://odoo-development.readthedocs.io/en/latest/git/files-relocation.html ;; file relocation
 vim20		http://ctoomey.com/posts/an-incremental-approach-to-vim/ ;; an incremental approach to vim
+vim21		https://www.reddit.com/r/vim/comments/2ueu0g/which_pluginskeybindsetc_significantly_changed/ ;; plugins key bind significantly changed your productivity
+vim22		https://www.youtube.com/watch?v=Ey6Gs_QApzk ;; learn vim unite
+vim23		http://www.codeography.com/2013/06/17/replacing-all-the-things-with-unite-vim.html ;; unite replacing all
+vim24		https://vim.sourceforge.io/scripts/script.php?script_id=5305 ;; unite git-log
+vim25		https://www.reddit.com/r/vim/comments/3rzbhk/what_is_your_unite_trick/ ;; unit trick
+gist17		https://gist.github.com/iledarn/b533235f26d4216dc7ef71f175bcca24 ;; install subtask
+gist18		https://gist.github.com/iledarn/7936f1103eaba0e2775686789cf2ece1 ;; install queue
+dom2		http://trubsovet.ru/nazn/vytyazh/kondensat-iz-vytyazhnyx-trub.html ;; ventiliacia
+odoojs1		https://www.youtube.com/watch?v=CHKg_fs_eZA ;; odoo js
+experience1	https://www.youtube.com/watch?v=Pb6yKUTX7Rk ;; Foyer du Lac - Fabien - Ask me anything
+oxp2017-1	https://www.youtube.com/watch?v=uwTcfnxR1u8 ;; OXP2017 Day 2 - Theatre - Tutorial: Keynote Odoo 2018 : Vision & Strategy
+oxp2017-2	https://www.youtube.com/watch?v=Pb6yKUTX7Rk ;; OXP2017 Day 2 - Foyer du Lac Fabien
+oxp2017-3	https://www.youtube.com/watch?v=Syrm5ZwWuk4 ;; OXP2017 Day 2 - Theatre - Tutorial - Studio: Build an App without Development
+oxp2017-4	https://www.youtube.com/watch?v=vbOiyiDVbaE ;; OXP2017 Day 2 - Lauzelle
+oxp2017-5	https://www.youtube.com/watch?v=6VsoJuhfv_Q ;; OXP2017 Day 2 - Hocaille
+oxp2017-6	https://www.youtube.com/watch?v=Rx5XO_y6xmU ;; OXP2017 Day 2 - Foyer Royal
+oxp2017-7	https://www.youtube.com/watch?v=ZrHECbSO2og ;; OXP2017 Day 2 - Bruyere
+oxp2017-8	https://www.youtube.com/watch?v=Pb6yKUTX7Rk ;; OXP2017 Day 2 - Foyer du Lac
+oxp2017-9	https://www.youtube.com/watch?v=Pb6yKUTX7Rk ;; Optimization
